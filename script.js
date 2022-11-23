@@ -36,4 +36,4 @@ function addCharacter() {
 	}
 }
 
-window.addEventListener('DomContentLoaded', addCharacter);
+window.addEventListener('DOMContentLoaded', addCharacter);
